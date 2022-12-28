@@ -59,7 +59,7 @@ public class eventorganizer {
 
     }
 
-    public eventorganizer(int inputid, String inputnama, String inputalamat, String inputemail, int inputnohp) {
+    public eventorganizer(int CUSTID, String CUSTNAME, String CUSTADDR, String EMAIL, int CUSTPHONE) {
         this.CUSTID = CUSTID;
         this.CUSTNAME = CUSTNAME;
         this.CUSTADDR = CUSTADDR;
